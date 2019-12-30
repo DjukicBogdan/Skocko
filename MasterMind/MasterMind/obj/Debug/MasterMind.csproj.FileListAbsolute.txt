@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MainWindow.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\App.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind_MarkupCompile.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind_MarkupCompile.lref
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MainWindow.baml
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.g.resources
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.Properties.Resources.resources
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\WindowNewName.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Debug\WindowNewName.baml

@@ -1,0 +1,17 @@
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Release\MasterMind.exe.config
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Release\MasterMind.exe
+C:\Users\bogda\source\repos\MasterMind\MasterMind\bin\Release\MasterMind.pdb
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.csprojAssemblyReference.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MainWindow.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\WindowNewName.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\App.g.cs
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind_MarkupCompile.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind_MarkupCompile.lref
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MainWindow.baml
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\WindowNewName.baml
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.g.resources
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.Properties.Resources.resources
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.csproj.GenerateResource.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.exe
+C:\Users\bogda\source\repos\MasterMind\MasterMind\obj\Release\MasterMind.pdb
